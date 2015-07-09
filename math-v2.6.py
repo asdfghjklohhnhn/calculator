@@ -3,6 +3,15 @@
 import math
 import sys
 
+#9+10=21
+  N = input('Start')
+  T = input('Finish')
+  if N = 9 && T = 10:
+  	N+T+2
+  else:
+  	N+T
+  
+
 #Financial Maths
 i = 0.00
 def compound_interest():
